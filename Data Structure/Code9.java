@@ -2,7 +2,8 @@ package lecture;
 
 import java.util.Scanner;
 
-//1-100000 사이 모든 소수 찾아서 출력
+//n개 정수 입력받아 순서대로 배열에 저장 후 모든 정수들을 한 칸씩 오른쪽으로 이동,
+//맨 마지막은 맨 처음으로 이동
 public class Code9 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

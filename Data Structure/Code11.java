@@ -2,7 +2,7 @@ package lecture;
 
 import java.util.Scanner;
 
-//1-100000사이 모든 소수 출력
+//정수 n개 입력받아 순서대로 배열에 저장, 중복된 정수쌍의 개수 카운트해 출력
 public class Code11 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
